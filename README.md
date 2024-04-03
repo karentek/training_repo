@@ -4,6 +4,9 @@ hi bob/jack
 
 
 новый текст
+еще текст
+other developer add function
+новые правила для контрибюта!!!
+1
 
 новые правила для контрибюта!!!
-# training_repo
